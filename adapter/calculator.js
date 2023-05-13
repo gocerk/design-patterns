@@ -1,7 +1,7 @@
 // the legacy code for Calculator class
 
 // class Calculator {
-//     operataion(a, b, operation) {
+//     operation(a, b, operation) {
 //         switch(operation) {
 //             case 'add':
 //                 return a + b;
