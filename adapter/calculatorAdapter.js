@@ -1,3 +1,5 @@
+const Calculator = require('./calculator');
+
 class CalculatorAdapter {
     operation(a, b, operation) {
         const calculator = new Calculator();
